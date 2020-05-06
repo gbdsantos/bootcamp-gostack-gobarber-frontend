@@ -30,10 +30,17 @@ module.exports = {
   ],
   "rules": {
     "prettier/prettier": "error",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-props-no-spreading": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
-    "react/jsx-filename-extension": [1,
-      { "extensions": ["tsx"] }
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [
+          "tsx"
+        ]
+      }
     ],
     "import/prefer-default-export": "off",
     "import/extensions": [
