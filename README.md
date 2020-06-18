@@ -14,17 +14,17 @@
   </a>
 
   <a href="">
-    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/bootcamp-gostack-gobarber-frontend/typescript">
+    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/bootcamp-gostack-challenge-07/typescript">
   </a>
 
   <img alt="Github last commit" src="https://wakatime.com/badge/github/gbdsantos/bootcamp-gostack-challenge-07.svg">
 
-  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/bootcamp-gostack-gobarber-frontend">
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/bootcamp-gostack-challenge-07">
 </p>
 
 <div align="center">
   <h4 align="center">Read on Languages</h4>
-  <a href="https://github.com/gbdsantos/bootcamp-gostack-gobarber-frontend/blob/master/README-PT_BR.md">🇧🇷
+  <a href="https://github.com/gbdsantos/bootcamp-gostack-gobarber-frontend/blob/master/README-PT-BR.md">🇧🇷
   </a>
 </div>
 
