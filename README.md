@@ -19,7 +19,7 @@
 
   <img alt="Wakatime time of development" src="https://wakatime.com/badge/github/gbdsantos/bootcamp-gostack-gobarber-frontend.svg">
 
-  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/bootcamp-gostack-challenge-07">
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/bootcamp-gostack-gobarber-frontend">
 </p>
 
 <div align="center">
