@@ -14,10 +14,10 @@
   </a>
 
   <a href="">
-    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/bootcamp-gostack-challenge-07/typescript">
+    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/bootcamp-gostack-gobarber-frontend/typescript">
   </a>
 
-  <img alt="Github last commit" src="https://wakatime.com/badge/github/gbdsantos/bootcamp-gostack-challenge-07.svg">
+  <img alt="Wakatime time of development" src="https://wakatime.com/badge/github/gbdsantos/bootcamp-gostack-gobarber-frontend.svg">
 
   <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/bootcamp-gostack-challenge-07">
 </p>
@@ -32,12 +32,7 @@
 
 GoBarber project made with <span style="color:deepskyblue; font-weight:bold;">**ReactJS**</span> + <span style="color:darkslateblue; font-weight:bold;">**TypeScript**</span>. At the **third week(F 03)** of Bootcamp GoStack 11.
 
-Project completed on 2020-04-xx.
-
-## :wrench: Tecnology
-
-- [ReactJS](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
+Project completed on 2020-06-18.
 
 ## :gear: Getting Started
 
@@ -51,9 +46,14 @@ yarn start
 
 > Access the URL in your browser http://localhost:3000
 
-## Demo
+## :wrench: Tecnology
 
-<img src="" alt="Demo GoBarber project" />
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/bootcamp-gostack-gobarber-frontend/blob/master/LICENSE) for more information.
 
 ## :man_astronaut: Author
 
